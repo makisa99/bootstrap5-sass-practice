@@ -4,7 +4,7 @@
   "description": "Practicing bootstrap5 and sass",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile:sass": "sass scss:assets/css"
   },
   "keywords": [
     "Bootstrap",
@@ -18,6 +18,9 @@
     "sass": "^1.39.0"
   },
   "dependencies": {
-    "bootstrap": "^5.1.0"
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "autoprefixer": "^10.3.4",
+    "bootstrap": "^5.1.0",
+    "postcss-cli": "^8.3.1"
   }
 }
