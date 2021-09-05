@@ -4,4 +4,5 @@
  Bootstrap: npm install bootstrap</br>
  Fontawesome: npm install --save @fortawesome/fontawesome-free</br>
  Autoprefixer: npm install postcss-cli autoprefixer --save</br>
+ Compile: npm rum compile:sass</br>
  
